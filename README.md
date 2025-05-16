@@ -20,7 +20,7 @@ This is a Lua-based Neovim configuration converted from a Nix configuration. It 
 2. Clone this configuration:
 
     ```sh
-    git clone https://github.com/yourusername/nvim-config.git ~/.config/nvim
+    git clone https://github.com/andy256789/nvim-config.git ~/.config/nvim
     ```
 
 3. Start Neovim:
